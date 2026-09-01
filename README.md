@@ -107,3 +107,31 @@ This project is about creating and organizing data using HTML tables.
 ##### Project Status
 
 * Completed
+---
+
+#### Project 5 - HTML Forms
+
+This project is about creating a student registration form using HTML.
+
+##### Concepts Covered
+
+* Creating forms using the `<form>` tag
+* Using `<label>` with form fields
+* Using different input types
+* Creating text, email, password and date fields
+* Using radio buttons
+* Using checkboxes
+* Creating dropdown menus using `<select>` and `<option>`
+* Using `<textarea>` for user messages
+* Grouping form fields using `<fieldset>` and `<legend>`
+* Using `id` and `for` attributes
+* Using the `required` attribute
+* Creating submit and reset buttons
+
+##### Technologies Used
+
+* HTML only
+
+##### Project Status
+
+* Completed

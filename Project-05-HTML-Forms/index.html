@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Registration</title>
+</head>
+<body>
+    <h1>Student registration Form</h1>
+    <p>Fill out form below to register as a student.</p>
+
+    <hr>
+
+    <form>
+        <fieldset>
+            <legend>Personal Information</legend>
+
+            <label for="fullname">Fullname:</label><br>
+            <input type="text" name="fullname" id="fullname" placeholder="Enter your fullname" required>
+            <br>
+            <br>
+
+            <label for="email">Email:</label><br>
+            <input type="email" name="email" id="email" placeholder="Enter your email" required>
+            <br>
+            <br>
+
+            <label for="password">Password:</label><br>
+            <input type="password" name="password" id="password" placeholder="Enter your password" required>
+            <br>
+            <br>
+
+            <label for="date">Date:</label><br>
+            <input type="date" name="date" id="date" required>
+            <br>
+            <br>
+            
+        </fieldset>
+        <br>
+
+        <fieldset>
+            <legend>Course Information</legend>
+            
+            <label for="course">Select Course:</label><br>
+            <select name="course" id="course" required>
+                <option value="">--Select a course--</option>
+                <option value="Maths">Maths</option>
+                <option value="Stats">Stats</option>
+                <option value="English">English</option>
+            </select>
+            <br>
+            <br>
+
+            <label>Preferred Learning Mode:</label><br>
+
+            <label for="online">Online</label>
+            <input type="radio" name="mode" id="online" required>
+            <br>
+
+            <label for="offline">Offline</label>
+            <input type="radio" name="mode" id="offline">
+            <br>
+            <br>
+
+            <label>Interests:</label><br>
+
+            <label for="webdevlopment">Webdevlopment</label>
+            <input type="checkbox" name="interests" id="webdevlopment">
+            <br>
+
+            <label for="programming">Programming</label>
+            <input type="checkbox" name="interests" id="programming">
+            <br>
+
+            <label for="design">Design</label>
+            <input type="checkbox" name="interests" id="design">
+            <br>
+            <br>
+
+        </fieldset>
+        <br>
+
+        <fieldset>
+            <legend>Message</legend>
+
+            <label for="message">Message:</label><br>
+            <textarea id="message" name="message" placeholder="Enter your full message here..."></textarea>
+            <br>
+            <br>
+
+        </fieldset>
+
+        <button type="submit">Submit</button>
+        <button type="reset">Clear</button>
+    </form>
+</body>
+</html>
