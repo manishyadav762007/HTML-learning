@@ -10,7 +10,7 @@
 
 A basic personal introduction webpage created using HTML only.
 
-#### Concepts Covered
+##### Concepts Covered
 
 * Basic HTML document structure
 * Headings
@@ -21,11 +21,39 @@ A basic personal introduction webpage created using HTML only.
 * Horizontal line
 * HTML tags and elements
 
-#### Technologies Used
+##### Technologies Used
 
 * HTML5
 
-#### Project Status
+##### Project Status
 
-* In Progress
+* Completed
+---
+
+#### Project 2: Lists and Structured Content
+
+A webpage created to practice different types of HTML lists and basic content structure.
+
+##### Concepts Covered
+
+* Ordered lists
+* Unordered lists
+* Description lists
+* `<ol>`
+* `<ul>`
+* `<li>`
+* `<dl>`
+* `<dt>`
+* `<dd>`
+* Headings and paragraphs
+* Organizing related content with sections
+
+##### Technologies Used
+
+* HTML5
+
+##### Project Status
+
+* Completed
+
 
