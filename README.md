@@ -55,5 +55,31 @@ A webpage created to practice different types of HTML lists and basic content st
 ##### Project Status
 
 * Completed
+---
 
+#### Project 3: Links and Images
+
+A webpage created to practice adding images and different types of links using HTML.
+
+##### Concepts Covered
+
+* Adding images using `<img>`
+* Using the `src` attribute
+* Using the `alt` attribute
+* Using the `title` attribute
+* Creating hyperlinks using `<a>`
+* Using the `href` attribute
+* Opening links in a new tab using `target="_blank"`
+* External links
+* Internal page links
+* Email links using `mailto:`
+* Using `id` for page navigation
+
+##### Technologies Used
+
+* HTML5
+
+##### Project Status
+
+* Completed
 
