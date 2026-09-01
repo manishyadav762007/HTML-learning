@@ -82,4 +82,28 @@ A webpage created to practice adding images and different types of links using H
 ##### Project Status
 
 * Completed
+---
 
+#### Project 4 - HTML Tables
+
+This project is about creating and organizing data using HTML tables.
+
+##### Concepts Covered
+
+- Creating tables using the `<table>` tag
+- Creating rows using the `<tr>` tag
+- Adding headings using the `<th>` tag
+- Adding data using the `<td>` tag
+- Using `<thead>` and `<tbody>`
+- Using `<caption>` for table titles
+- Merging cells using `colspan`
+- Merging cells using `rowspan`
+- Organizing data into rows and columns
+
+##### Technologies Used
+
+* HTML only
+
+##### Project Status
+
+* Completed
