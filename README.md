@@ -135,3 +135,36 @@ This project is about creating a student registration form using HTML.
 ##### Project Status
 
 * Completed
+---
+
+#### Project 6 - HTML Media and iframe
+
+This project is about adding and displaying different types of multimedia content using HTML.
+
+##### Concepts Covered
+
+* Adding audio using `<audio>`
+* Using the `controls` attribute
+* Adding audio sources using `<source>`
+* Providing fallback text for unsupported audio
+* Adding videos using `<video>`
+* Using the `controls` attribute with video
+* Using `<source>` for video files
+* Providing fallback text for unsupported video
+* Embedding external content using `<iframe>`
+* Using `src`, `width` and `height` attributes with `<iframe>`
+* Using the `allowfullscreen` attribute
+* Using the `title` attribute for iframe accessibility
+* Embedding YouTube content using `<iframe>`
+* Downloading files using the `download` attribute
+* Linking and downloading PDF files
+* Working with external media sources
+* Understanding HTML multimedia elements
+
+##### Technologies Used
+
+* HTML5
+
+##### Project Status
+
+* Completed
